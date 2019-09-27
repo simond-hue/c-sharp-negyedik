@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negyedik_ora", "negyedik_ora\negyedik_ora.csproj", "{FD1F875A-7E11-4861-B3D3-861F85B7A486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD1F875A-7E11-4861-B3D3-861F85B7A486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1F875A-7E11-4861-B3D3-861F85B7A486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1F875A-7E11-4861-B3D3-861F85B7A486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1F875A-7E11-4861-B3D3-861F85B7A486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23E8F24D-5C8A-4DDC-B8FB-C617180A238E}
+	EndGlobalSection
+EndGlobal
